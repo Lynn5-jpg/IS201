@@ -1,0 +1,8 @@
+body {
+  background-color: pink;
+  border: 10px solid white;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  margin: 20px; /* space around the border */
+  padding: 20px;
+  box-sizing: border-box;
+}
